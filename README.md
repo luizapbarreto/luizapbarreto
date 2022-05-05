@@ -3,7 +3,7 @@
 <br>
 🎓 Estudante de Ciências da Computação
 <br>
-📚 Estudante de Desenvolvimento Web Full Stack na <a href="https://brazil.generation.org/">Generation Brasil</a>
+📚 Estudante de Desenvolvimento Java Full Stack na <a href="https://brazil.generation.org/">Generation Brasil</a>
 <br>
 📍 Localizada em Recife, PE e aberta para trabalho
 <br><br>
