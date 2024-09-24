@@ -1,4 +1,4 @@
-### Oie, eu sou a Luiza :)
+
 
 <br>
 🎓 Estudante de Ciências da Computação
